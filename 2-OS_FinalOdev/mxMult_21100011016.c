@@ -1,4 +1,4 @@
-// Yunus Emre Ay / 21100011016 / TR.yunus.emre.ay@gmail.com / 05333244768
+// Yunus Emre Ay / 21100011016 / TR.yunus.emre.ay@gmail.com
 
 
 #include <stdio.h>
@@ -7,7 +7,7 @@
 
 #define max_size 7
 
-struct fonksiyon_parametreleri // thread fonksiyonuna gönderilecek parametreler struct yapisinda tutulmaktadir.
+struct fonksiyon_parametreleri // thread fonksiyonuna gÃ¶nderilecek parametreler struct yapisinda tutulmaktadir.
 {
     int dizi1[max_size][max_size];
     int max_stun;

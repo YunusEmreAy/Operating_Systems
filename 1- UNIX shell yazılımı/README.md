@@ -1,0 +1,1 @@
+# "Proje_Detayları.pdf" belgesini inceleyerek proje hakkında daha fazla bilgiye ulaşabilirsiniz.
